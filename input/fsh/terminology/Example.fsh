@@ -1,4 +1,4 @@
-CodeSystem: ChIgExample
+CodeSystem: CS_ChIgExample
 Id: ch-ig-example
 Title: "CH IG Example"
 Description: "CH IG Example code system is just an example!"
@@ -10,7 +10,7 @@ Description: "CH IG Example code system is just an example!"
 * #3 "Beispiel 3"
 
 
-ValueSet: ChIgExample
+ValueSet: VS_ChIgExample
 Id: ch-ig-example
 Title: "CH IG Example"
 Description: "CH IG Example value set is just an example!"
