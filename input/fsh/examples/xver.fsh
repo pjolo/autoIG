@@ -14,7 +14,7 @@ Usage: #example
 Profile: ChIgEncounter
 Parent: Encounter
 Id: ch-ig-encounter
-Title: "CH IG Practitioner"
-Description: "CH IG Practitioner profile is just an example!"
-* . ^short = "CH IG Practitioner"
+Title: "CH IG Encounter"
+Description: "CH IG Encounter profile is just an example!"
+* . ^short = "CH IG Encounter"
 * extension contains http://hl7.org/fhir/5.0/StructureDefinition/extension-Encounter.subjectStatus named subjectStatus 0..1
