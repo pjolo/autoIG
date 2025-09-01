@@ -15,4 +15,4 @@ Id: ch-ig-example
 Title: "CH IG Example"
 Description: "CH IG Example value set is just an example!"
 * ^experimental = false
-* include codes from system ChIgExample
+* include codes from system CS_ChIgExample
