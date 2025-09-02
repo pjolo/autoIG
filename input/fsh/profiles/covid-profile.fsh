@@ -10,7 +10,7 @@ Description: "Profil für COVID-19 Diagnosen"
 
 //Regel
 * code = $SCT#840539006 "Disease cause by server acute respiratory syndrome coronavirus 2"
-* subject only Reference(Patient, Practitioner)
+* subject only Reference(Patient)
 * subject MS
 * severity MS
 * severity from CovidSeverityVS (required)
