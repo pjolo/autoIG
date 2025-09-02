@@ -18,7 +18,7 @@ Description: "Profil für COVID-19 Diagnosen"
 ValueSet: CovidSeverityVS
 Id: covid-severity-vs
 Title: "COVID-19 Severity"
-Description "Schweregrad für COVID-19"
+Description: "Schweregrad für COVID-19"
 * include codes from system $SCT where concept is-a #2448400 "Servere"
 * $SCT#399166001 "Fatal"
 * $SCT#44245003 "Life threatening severity
