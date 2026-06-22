@@ -6,3 +6,7 @@ Description: "Example for Patient"
 * name
   * family = "Meier"
   * given = "Petra"
+
+* gender = #female
+* birthDate = "1980-01-01"
+
